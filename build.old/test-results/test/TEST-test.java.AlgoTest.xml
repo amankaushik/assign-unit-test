@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="test.java.AlgoTest" tests="16" skipped="0" failures="0" errors="0" timestamp="2018-10-22T00:39:45" hostname="amankaushik-GL552JX" time="0.017">
+  <properties/>
+  <testcase name="quick_sort_test_null" classname="test.java.AlgoTest" time="0.004"/>
+  <testcase name="default_data" classname="test.java.AlgoTest" time="0.002"/>
+  <testcase name="heap_sort_test_data" classname="test.java.AlgoTest" time="0.001"/>
+  <testcase name="heap_sort_test_null" classname="test.java.AlgoTest" time="0.0"/>
+  <testcase name="selection_sort_test_data" classname="test.java.AlgoTest" time="0.001"/>
+  <testcase name="selection_sort_test_null" classname="test.java.AlgoTest" time="0.0"/>
+  <testcase name="insertion_sort_test_data" classname="test.java.AlgoTest" time="0.0"/>
+  <testcase name="insertion_sort_test_null" classname="test.java.AlgoTest" time="0.0"/>
+  <testcase name="bubble_sort_test_edge" classname="test.java.AlgoTest" time="0.0"/>
+  <testcase name="bubble_sort_test_node" classname="test.java.AlgoTest" time="0.0"/>
+  <testcase name="merge_sort_test_data" classname="test.java.AlgoTest" time="0.001"/>
+  <testcase name="merge_sort_test_null" classname="test.java.AlgoTest" time="0.0"/>
+  <testcase name="NoSuchElem" classname="test.java.AlgoTest" time="0.0"/>
+  <testcase name="quick_sort_test_data_1" classname="test.java.AlgoTest" time="0.0"/>
+  <testcase name="quick_sort_test_data_2" classname="test.java.AlgoTest" time="0.001"/>
+  <testcase name="default_data_len_1" classname="test.java.AlgoTest" time="0.004"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
